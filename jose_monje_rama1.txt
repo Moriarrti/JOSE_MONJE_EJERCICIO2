@@ -1,5 +1,11 @@
 Documento 1 rama
 Linea 1 rama1
 Linea 2 rama1
+<<<<<<< HEAD
 otro linea 1 en master
 otro linea 2 en master
+=======
+otra linea 1
+otra linea 2
+otra linea 3
+>>>>>>> jose_monje_rama
