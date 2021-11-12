@@ -1,3 +1,5 @@
 Documento 1 rama
 Linea 1 rama1
 Linea 2 rama1
+otro linea 1 en master
+otro linea 2 en master
